@@ -9,3 +9,9 @@ div {
 h1,h3 {
   display: inline;
 }
+
+#botonMas{
+  margin-left: 2em;
+  display: flex, inline-block;
+  margin-bottom: 20px;
+}
