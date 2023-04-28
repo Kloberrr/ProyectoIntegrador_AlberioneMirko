@@ -1,4 +1,4 @@
-FROM amazoncorretto:19-alpine-jdk
+FROM amazoncorretto:19-jdk-alpine
 
 COPY target/mta-0.0.1-SNAPSHOT.jar app.jar
 
