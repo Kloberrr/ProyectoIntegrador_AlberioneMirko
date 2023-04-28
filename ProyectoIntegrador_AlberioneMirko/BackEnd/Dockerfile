@@ -1,7 +1,7 @@
-FROM amazoncorretto:19-jdk-alpine
+FROM amazoncorretto:17
+
+MAINTAINER mtaPortfolio
 
 COPY target/mta-0.0.1-SNAPSHOT.jar app.jar
-
-EXPOSE 8080
-
 ENTRYPOINT ["java", "-jar", "/app.jar"]
+EXPOSE 8080
