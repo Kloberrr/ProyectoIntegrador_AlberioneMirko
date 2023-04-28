@@ -1,4 +1,4 @@
-FROM amazoncorretto:19
+FROM amazoncorretto:17-al2023-jdk
 
 
 MAINTAINER mtaPortfolio
