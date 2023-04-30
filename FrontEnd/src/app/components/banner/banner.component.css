@@ -1,0 +1,13 @@
+/*Imagen fija*/
+
+.imagen_fondo{
+    background-image: url("../../../assets/BANNERfinal.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: contain;
+    margin-top: -3em;
+    height: 19em;
+    position: relative;
+}
+
+
