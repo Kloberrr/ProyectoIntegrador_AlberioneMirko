@@ -9,7 +9,6 @@ com\portfolio\mta\Security\Service\UserDetailsImpl.class
 com\portfolio\mta\Security\Dto\JwtDto.class
 com\portfolio\mta\Dto\dtoExperiencia.class
 com\portfolio\mta\Security\Entity\UsuarioPrincipal.class
-com\portfolio\mta\WebConfig.class
 com\portfolio\mta\Entity\hys.class
 com\portfolio\mta\Controller\CExperiencia.class
 com\portfolio\mta\Security\Entity\Usuario.class
